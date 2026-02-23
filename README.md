@@ -13,4 +13,5 @@ Can't access index.html
 used the commend chmodd 644(below) to provide permission access to index.html 
 sudo chmod 644 /var/www/html/index.html
 
-
+# lesson leanrt 
+File permissions affect user access to the file 
