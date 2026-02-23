@@ -10,7 +10,7 @@ Install and configure Nginx on ubuntu(WSL)
 Can't access index.html 
 
 # solution 
-used the commend below to provide permission access to index.html 
-chmod 644 to restore permissions.
+used the commend chmodd 644(below) to provide permission access to index.html 
+sudo chmod 644 /var/www/html/index.html
 
 
